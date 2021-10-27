@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dog_Workshop</string>
+    <string name="random_label">Imagens aleatórias</string>
+    <string name="breed_label">Por raça</string>
+    <string name="randomize_label">Cachorro aleatório</string>
+    <string name="search_breed_label">Pesquisar Raça</string>
+</resources>
